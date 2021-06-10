@@ -10,7 +10,7 @@
 [![CNDvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndvn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My Github Data** 
 
@@ -81,4 +81,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
