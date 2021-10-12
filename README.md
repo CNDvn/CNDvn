@@ -10,7 +10,7 @@
 [![CNDvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndvn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,9 +77,9 @@ Windows                  3 hrs 28 mins       ███████████�
 
 ```text
 Java                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
 TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
@@ -90,5 +90,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
