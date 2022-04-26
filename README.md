@@ -12,7 +12,7 @@
 [![CNDvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndvn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,23 +53,16 @@ Sunday       91 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 51 mins        ███████████████░░░░░░░░░░   62.57% 
-JavaScript               1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   35.29% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.0% 
-IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tourcreator-be           1 hr 51 mins        ███████████████░░░░░░░░░░   62.57% 
-apis-gateway-fe          59 mins             ████████░░░░░░░░░░░░░░░░░   33.45% 
-apis-gateway             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-english-card             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +83,5 @@ Dart                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 18:48:07 UTC
+ Last Updated on 26/04/2022 18:51:21 UTC
 <!--END_SECTION:waka-->
