@@ -12,15 +12,15 @@
 [![CNDvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndvn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 490 Contributions in the Year 2022
  > 
-> 📦 157.6 kB Used in GitHub's Storage 
+> 📦 157.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,20 +55,20 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 37 mins       ███████████████████████░░   94.15% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
-.env file                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+TypeScript               4 hrs 19 mins       ███████████████████████░░   95.06% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+.env file                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
 yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-WebStorm                 3 hrs 50 mins       █████████████████████████   100.0%
+WebStorm                 4 hrs 33 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sg-tour-plan             3 hrs 50 mins       █████████████████████████   100.0%
+sg-tour-plan             4 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.0%
+Windows                  4 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +89,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 19:12:29 UTC
+ Last Updated on 18/10/2022 19:09:07 UTC
 <!--END_SECTION:waka-->
