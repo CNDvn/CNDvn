@@ -12,7 +12,7 @@
 [![CNDvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndvn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -20,7 +20,7 @@
 
 > 🏆 490 Contributions in the Year 2022
  > 
-> 📦 157.8 kB Used in GitHub's Storage 
+> 📦 157.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,20 +55,18 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 19 mins       ███████████████████████░░   95.06% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-.env file                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
-yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript               2 hrs               ██████████████████████░░░   89.97% 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
+.env file                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.01%
 
 🔥 Editors: 
-WebStorm                 4 hrs 33 mins       █████████████████████████   100.0%
+WebStorm                 2 hrs 14 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sg-tour-plan             4 hrs 33 mins       █████████████████████████   100.0%
+sg-tour-plan             2 hrs 14 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.0%
+Windows                  2 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +87,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 19:09:07 UTC
+ Last Updated on 19/10/2022 19:09:25 UTC
 <!--END_SECTION:waka-->
