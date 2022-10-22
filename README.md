@@ -12,7 +12,7 @@
 [![CNDvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndvn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -55,18 +55,18 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ██████████████████████░░░   90.62% 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-.env file                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
+TypeScript               2 hrs 34 mins       ███████████████████████░░   91.96% 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
+.env file                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.02%
 
 🔥 Editors: 
-WebStorm                 2 hrs 23 mins       █████████████████████████   100.0%
+WebStorm                 2 hrs 47 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sg-tour-plan             2 hrs 23 mins       █████████████████████████   100.0%
+sg-tour-plan             2 hrs 47 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.0%
+Windows                  2 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +87,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2022 19:02:36 UTC
+ Last Updated on 22/10/2022 18:55:45 UTC
 <!--END_SECTION:waka-->
