@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 499 Contributions in the Year 2022
  > 
-> 📦 160.7 kB Used in GitHub's Storage 
+> 📦 160.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,5 +90,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CNDvn/CNDvn/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 18:49:18 UTC
+ Last Updated on 07/11/2022 18:50:25 UTC
 <!--END_SECTION:waka-->
